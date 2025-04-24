@@ -1,10 +1,7 @@
-# RKLLama: LLM Server and Client for Rockchip 3588/3576
+![Giới thiệu về RKLLAMA](https://github.com/user-attachments/assets/16c87b6b-6378-4169-b92e-34ed695be737)
 
-### [Version: 0.0.41](#New-Version)
-
-Video demo ( version 0.0.1 ):
-
-[![Watch on YouTube](https://img.youtube.com/vi/Kj8U1OGqGPc/0.jpg)](https://www.youtube.com/watch?v=Kj8U1OGqGPc)
+Hướng dẫn cài đặt (tiếng Việt)
+https://www.youtube.com/watch?v=tUsGf12h0ps
 
 ##  Branches
 
@@ -177,7 +174,7 @@ This will automatically download the specified model file and prepare it for use
 ### **Manual Installation**
 1. **Download the Model**  
    - Download `.rkllm` models directly from [Hugging Face](https://huggingface.co).  
-   - Alternatively, convert your GGUF models into `.rkllm` format (conversion tool coming soon on [my GitHub](https://github.com/notpunchnox)).
+   - Alternatively, convert your GGUF models into `.rkllm` format 
 
 2. **Place the Model**  
    - Navigate to the `~/RKLLAMA/models` directory on your system.
@@ -267,21 +264,7 @@ If you have already downloaded models and do not wish to reinstall everything, p
 
 ---
 
-System Monitor:
-
----
-
-## Star History
-
-![Star History Chart](https://api.star-history.com/svg?repos=notpunchnox/rkllama)
-
----
 
 ##  Author
 
 *  [**NotPunchnox**](https://github.com/notpunchnox/rkllama)
-
-##  Contributors
-
-*  [**ichlaffterlalu**](https://github.com/ichlaffterlalu): Contributed with a pull request for [Docker-Rkllama](https://github.com/NotPunchnox/rkllama/tree/Rkllama-Docker) and fixed multiple errors.
-*  [**TomJacobsUK**](https://github.com/TomJacobsUK): Contributed with pull requests for Ollama API compatibility and model naming improvements, and fixed CPU detection errors.
